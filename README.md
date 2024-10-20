@@ -2,7 +2,7 @@
 
 💻 I have hands-on experience with tools like Selenium and pytest, and I am actively developing my skills in test automation to enhance efficiency and accuracy in software delivery.
 
- 🔹 Technical Skills:
+🔹 Technical Skills:
 
 Programming Languages: Java, Python and C/C++
 Framework - Pytest 
@@ -18,8 +18,9 @@ Jenkins, AWS
 * Excellent organization and time management abilities.
 * Effective communication and collaboration skills.
 
-  
-  🔹 Goals:
+
+🔹 Goals:
+
 🌱 Currently, I'm focused on deepening my knowledge of automation frameworks and best practices. I'm excited about exploring new technologies and methodologies to contribute to high-quality software solutions.
 My ultimate goal is to leverage my technical expertise and contribute to innovative projects that create meaningful user experiences. I am excited about acquiring hands-on experience, honing my skills, and growing as a developer. With a keen eye for detail and an ardent passion for front-end development, I am confident in my ability to positively impact any team or project. 
 
