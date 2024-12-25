@@ -30,7 +30,7 @@ Best regards,
 [Vikash Dwivedi]
 
 - 📫 How to reach me ... Gmail-  vikashji2032003@gmail.com
-- linkedIn profile:  : https://linkedin.com/in/vikash-dwivedi-123abc
+- linkedIn profile:  : https://linkedin.com/in/vikash-dwivedi123
 
 <!---
 Vikashdwivedi123-tech/Vikashdwivedi123-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
