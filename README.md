@@ -1,4 +1,4 @@
-👋 Hi there! I'm a Software QA Engineer with 6 months of experience in the field. My passion lies in ensuring software quality through meticulous testing and automation practices.
+👋 Hi there! I'm a Software QA Engineer with 8 months of experience in the field. My passion lies in ensuring software quality through meticulous testing and automation practices.
 
 💻 I have hands-on experience with tools like Selenium and pytest, and I am actively developing my skills in test automation to enhance efficiency and accuracy in software delivery.
 
