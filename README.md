@@ -29,7 +29,7 @@ Let's innovate and build remarkable web experiences together!
 Best regards,
 [Vikash Dwivedi]
 
-- 📫 How to reach me ... Gmail-  vikashji2032003@gmail.com
+- 📫 How to reach me ... Gmail-  vikashdwi123@gmail.com
 - linkedIn profile:  : https://linkedin.com/in/vikash-dwivedi123
 
 <!---
