@@ -1,12 +1,16 @@
-# 👋 Hey, I'm Vikash Dwivedi!
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+</div>
+
+<h1 align="center">👋 Hey, I'm Vikash Dwivedi</h1>
+
+<h3 align="center">
+SDET @ Brevo | Selenium | Python | API Automation
+</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700" alt="Coding GIF">
+Building scalable automation frameworks • CI/CD • API Testing • DSA
 </p>
-
-### 🚀 SDET @ Brevo | Selenium | Python | API Automation
-
-💡 Passionate about Test Automation, Framework Design, DSA, and Quality Engineering.
 
 ---
 
