@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hey, I'm Vikash Dwivedi</h1>
 
 <h3 align="center">
-SDET @ Brevo | Selenium | Python | API Automation
+SDET @ Brevo | Selenium | Java | TestNg | POM | Pytest | Rest-Assured
 </h3>
 
 <p align="center">
