@@ -238,7 +238,13 @@ If you're interested in:
 
 Let's connect and grow together 🚀
 
-📧 [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
+📧 **Email:** [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
+
+💼 **LinkedIn:** [Vikash Dwivedi](https://www.linkedin.com/in/vikash-dwivedi123/)
+
+💻 **GitHub:** [Vikashdwivedi123-tech](https://github.com/Vikashdwivedi123-tech)
+
+🤝 Always open to discussions around Automation Testing, Selenium, API Testing, Framework Design, and SDET career growth.
 
 ⭐ If you find my repositories helpful, consider giving them a star!
 
