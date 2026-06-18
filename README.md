@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+       width="300"
+       alt="Coding GIF">
+</p>
 
 <h1 align="center">👋 Hey, I'm Vikash Dwivedi</h1>
 
