@@ -1,67 +1,237 @@
-👋 Hi, I’m Vikash Dwivedi
+# 👋 Hey, I'm Vikash Dwivedi!
 
-I’m a **Software Development Engineer in Test (SDET)** with hands-on experience in **Web and API Automation**, focused on building **scalable, reliable, and maintainable automation frameworks**.
+### 🚀 SDET @ Brevo | Selenium | Python | API Automation
 
-Currently, I work as an **SDET at Brevo**, where I contribute to improving product quality by designing and enhancing automation solutions that integrate seamlessly with CI/CD pipelines.
+💡 Passionate about Test Automation, Framework Design, DSA, and Quality Engineering.
 
----
-
-## 💻 What I Work On
-
-- **UI Automation** using Selenium WebDriver (Java, Python)
-- **API Automation & Validation** using Postman and Pytest
-- **Test Framework Design** using Page Object Model (POM)
-- **Test Execution & Reporting** using TestNG / Pytest
-- **CI/CD Integration** using Jenkins and GitHub Actions
-
-I focus not just on writing test scripts, but on **designing automation systems** that are stable, reusable, and easy to maintain.
+📚 Learning in Public • Building Automation Frameworks • Sharing QA Knowledge
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-**Languages:**  
-- Java, Python  
+🔹 Software Development Engineer in Test (SDET) with hands-on experience in Web & API Automation
 
-**Automation & Testing:**  
-- Selenium WebDriver  
-- TestNG, Pytest  
-- API Testing (Postman)
+🔹 Currently working at **Brevo**, contributing to scalable automation solutions and quality engineering practices
 
-**DevOps / CI-CD:**  
-- Jenkins  
-- GitHub Actions  
+🔹 Experienced in designing robust automation frameworks using Selenium WebDriver, Python, Java, TestNG, and Pytest
 
-**Other:**  
-- Git, Agile Testing Practices  
+🔹 Strong focus on maintainable automation architecture, test stability, and CI/CD integration
+
+🔹 Passionate about solving automation challenges and continuously improving testing processes
+
+> **"Quality is a mindset, not just a phase in the SDLC."**
 
 ---
 
-## 💡 What I Bring
+## 📍 Connect With Me
 
-- Strong understanding of **automation framework architecture**
-- Experience in handling **test stability and flaky test issues**
-- Passion for **clean, maintainable, and scalable code**
-- Analytical mindset with attention to detail
-- Continuous learner, exploring modern tools and best practices in automation testing
+📧 Email: [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
 
----
+💼 LinkedIn: linkedin.com/in/vikash-dwivedi123
 
-## 🚀 Current Focus
-
-- Improving automation framework design
-- Enhancing CI/CD-driven test execution
-- Writing reliable and maintainable automation tests
-- Sharing practical automation learnings with the QA community
-
-I strongly believe that **quality is a mindset, not just a phase in the SDLC**.
+💻 GitHub: Vikashdwivedi123-tech
 
 ---
 
-## 📌 Connect With Me
+# 🎯 Current Goals (2026)
 
-- **LinkedIn:** https://linkedin.com/in/vikash-dwivedi123  
-- **Email:** vikashdwi123@gmail.com  
+✅ Build Production-Ready Automation Frameworks
 
-Thanks for visiting my GitHub profile!  
-Feel free to explore my repositories and connect with me.
+✅ Master Advanced Selenium & API Automation
+
+✅ Improve CI/CD-Driven Test Execution
+
+✅ Strengthen DSA & Problem-Solving Skills
+
+✅ Contribute More to Open Source Projects
+
+✅ Share Practical QA Knowledge with the Testing Community
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Brevo | Software Development Engineer in Test (SDET)
+
+### Responsibilities
+
+* Developing and maintaining scalable automation frameworks
+* UI Automation using Selenium WebDriver
+* API Automation and Validation using Postman & Pytest
+* Designing reusable Page Object Model (POM) frameworks
+* Improving test stability and reducing flaky tests
+* Integrating automation suites with CI/CD pipelines
+* Collaborating closely with developers and product teams to ensure software quality
+
+### Key Contributions
+
+✔ Enhanced automation framework maintainability
+
+✔ Improved test execution reliability
+
+✔ Automated critical business workflows
+
+✔ Strengthened CI/CD-based testing processes
+
+---
+
+# 🛠️ Tech Stack
+
+| Category              | Technologies                                    |
+| --------------------- | ----------------------------------------------- |
+| Programming Languages | Java, Python                                    |
+| UI Automation         | Selenium WebDriver                              |
+| API Testing           | Postman, Pytest                                 |
+| Testing Frameworks    | TestNG, Pytest                                  |
+| Framework Design      | Page Object Model (POM)                         |
+| CI/CD                 | Jenkins, GitHub Actions                         |
+| Version Control       | Git, GitHub                                     |
+| Methodologies         | Agile, SDLC, STLC                               |
+| Testing Types         | Functional, Regression, Smoke, Integration, API |
+
+---
+
+# 📌 Featured Projects
+
+## 🧪 Selenium Concepts
+
+A collection of Selenium automation concepts implemented using Python and Pytest.
+
+### Covered Topics
+
+* WebDriver Basics
+* Locators
+* Waits
+* Actions
+* Frames
+* Alerts
+* Windows Handling
+* Pytest Integration
+
+---
+
+## 🏥 Healthcare Appointment Booking System
+
+Automated the CURA Healthcare website appointment booking workflow.
+
+### Features
+
+* End-to-End Booking Flow Automation
+* Form Validation Testing
+* User Journey Validation
+* Selenium + Python Implementation
+
+---
+
+## 📚 SDET Arrays Interview Preparation
+
+Comprehensive collection of Array Interview Questions.
+
+### Focus Areas
+
+* Brute Force Solutions
+* Optimal Approaches
+* Interview Patterns
+* Time & Space Complexity Analysis
+
+---
+
+## 💻 DSA Repository
+
+Daily practice repository focused on:
+
+* Arrays
+* Strings
+* Hashing
+* Linked Lists
+* Trees
+* Searching & Sorting
+
+---
+
+# 🎓 Learning Journey
+
+### Current Learning Roadmap
+
+| Topic                      | Status         |
+| -------------------------- | -------------- |
+| Selenium Advanced Concepts | 🔄 In Progress |
+| API Automation Frameworks  | 🔄 In Progress |
+| Pytest Framework Design    | 🔄 In Progress |
+| Jenkins CI/CD Integration  | 🔄 In Progress |
+| DSA & Problem Solving      | 🔄 In Progress |
+
+---
+
+# 💡 What I Bring
+
+✔ Strong Automation Framework Design Skills
+
+✔ Deep Understanding of Test Stability Challenges
+
+✔ Experience Handling Flaky Test Scenarios
+
+✔ Passion for Clean and Maintainable Code
+
+✔ Continuous Learning Mindset
+
+✔ Strong Analytical & Problem-Solving Skills
+
+---
+
+# 📈 GitHub Activity
+
+🔥 Actively building automation projects
+
+📚 Sharing Selenium & Automation Concepts
+
+🧠 Practicing DSA & Interview Preparation
+
+🚀 Expanding QA Engineering Knowledge
+
+---
+
+# 🌟 Current Focus Areas
+
+* Selenium Framework Architecture
+* API Automation with Pytest
+* CI/CD Pipeline Integration
+* Automation Best Practices
+* Test Reliability & Scalability
+* Modern QA Engineering Practices
+
+---
+
+# 🤝 Open To
+
+✅ SDET Opportunities
+
+✅ Automation Testing Collaborations
+
+✅ Open Source Contributions
+
+✅ QA Community Discussions
+
+✅ Knowledge Sharing & Mentoring
+
+---
+
+## 💬 Let's Connect!
+
+If you're interested in:
+
+* Test Automation
+* Selenium WebDriver
+* API Testing
+* Python Automation
+* QA Engineering
+* DSA & Interview Preparation
+
+Let's connect and grow together 🚀
+
+📧 [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
+
+⭐ If you find my repositories helpful, consider giving them a star!
+
+### Thanks for visiting my profile! Happy Testing 🧪🚀
