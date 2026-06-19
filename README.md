@@ -21,12 +21,6 @@
 
 </div>
 
-</p>
-
-<p align="center">
-Building scalable automation frameworks • CI/CD • API Testing • DSA
-</p>
-
 ---
 
 ## 🚀 About Me
