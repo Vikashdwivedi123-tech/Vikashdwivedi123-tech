@@ -39,6 +39,16 @@
 
 ---
 
+🎯 Current Goals (2026–2027)
+
+- 🏗️ Building a **production-grade Playwright + Rest Assured** automation framework
+- 🎓 Learning **System Design** for SDET interviews
+- 🧠 Solving **LeetCode 75** — 1 problem/day consistently
+- 🚀 Targeting **SDET roles at Amazon · Microsoft · Google ·Adobe**
+- 📢 Documenting everything publicly on [LinkedIn](https://www.linkedin.com/in/vikash-dwivedi123/)
+
+---
+
 ## 🌍 Connect with Me
 <div align="center">
 
