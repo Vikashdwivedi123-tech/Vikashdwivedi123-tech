@@ -195,6 +195,15 @@ Daily practice repository focused on:
 
 ---
 
+## 🎓 Certifications
+
+✔ **Playwright for UI & API Testing** — Udemy
+✔ **Python** certifieed and get th LOR from MyCaptain — LinkedIn Learning
+✔ **Filed patent** regarding secured beverage storage device.
+✔ **Amazon S3** Certified — AWS 
+✔ **C language** certified  — IIT Bombay
+
+
 # 🤝 Open To
 
 ✅ SDET Opportunities
