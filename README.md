@@ -85,19 +85,6 @@ pipelines.
 
 ---
 
-
-## 🌍 Connect with Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-dwivedi123/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vikashdwi123@gmail.com)
-
-</div>
-
-
----
-
 # 📌 Featured Projects
 
 ## 🧪 Selenium Concepts
@@ -149,27 +136,7 @@ Daily practice repository focused on:
 
 * Arrays
 * Strings
-* Hashing
-* Linked Lists
-* Trees
-* Searching & Sorting
-
----
-
-# 💡 What I Bring
-
-✔ Strong Automation Framework Design Skills
-
-✔ Deep Understanding of Test Stability Challenges
-
-✔ Experience Handling Flaky Test Scenarios
-
-✔ Passion for Clean and Maintainable Code
-
-✔ Continuous Learning Mindset
-
-✔ Strong Analytical & Problem-Solving Skills
-
+* Linked Lists (in progress) 
 ---
 
 # 📈 GitHub Activity
@@ -184,17 +151,6 @@ Daily practice repository focused on:
 
 ---
 
-# 🌟 Current Focus Areas
-
-* Selenium Framework Architecture
-* API Automation with Pytest
-* CI/CD Pipeline Integration
-* Automation Best Practices
-* Test Reliability & Scalability
-* Modern QA Engineering Practices
-
----
-
 ## 🎓 Certifications
 
 ✔ **Playwright for UI & API Testing** — Udemy
@@ -203,42 +159,41 @@ Daily practice repository focused on:
 ✔ **Amazon S3** Certified — AWS 
 ✔ **C language** certified  — IIT Bombay
 
+---
 
-# 🤝 Open To
+## 🌍 Connect with Me
+<div align="center">
 
-✅ SDET Opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-dwivedi123/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vikashdwi123@gmail.com)
 
-✅ Automation Testing Collaborations
-
-✅ Open Source Contributions
-
-✅ QA Community Discussions
-
-✅ Knowledge Sharing & Mentoring
+</div>
 
 ---
 
-## 💬 Let's Connect!
+## 🛠️ Languages and Tools
 
-If you're interested in:
+<div align='center'>
 
-* Test Automation
-* Selenium WebDriver
-* API Testing
-* Python Automation
-* QA Engineering
-* DSA & Interview Preparation
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright"/></a>
+<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/></a>
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
+<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/></a>
+<a href="https://jmeter.apache.org/"><img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40" alt="JMeter"/></a>
 
-Let's connect and grow together 🚀
+</div>
 
-📧 **Email:** [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
+<div align="center">
 
-💼 **LinkedIn:** [Vikash Dwivedi](https://www.linkedin.com/in/vikash-dwivedi123/)
+### 💬 Open to brand collaborations, mentoring & SDET opportunities!
+### 📩 Reach out: jainkalpesh597@gmail.com
 
-💻 **GitHub:** [Vikashdwivedi123-tech](https://github.com/Vikashdwivedi123-tech)
+⭐ *If you find my repos helpful, give them a star!*
+Thanks for visiting my profile! Happy Testing 🧪🚀
 
-🤝 Always open to discussions around Automation Testing, Selenium, API Testing, Framework Design, and SDET career growth.
-
-⭐ If you find my repositories helpful, consider giving them a star!
-
-### Thanks for visiting my profile! Happy Testing 🧪🚀
+</div>
