@@ -39,7 +39,7 @@
 
 ---
 
-🎯 Current Goals (2026–2027)
+## 🎯 Current Goals (2025–2026)
 
 - 🏗️ Building a **production-grade Playwright + Rest Assured** automation framework
 - 🎓 Learning **System Design** for SDET interviews
