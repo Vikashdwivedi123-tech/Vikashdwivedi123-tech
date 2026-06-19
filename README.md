@@ -98,64 +98,6 @@ pipelines.
 
 ---
 
-# 🎯 Current Goals (2026)
-
-✅ Build Production-Ready Automation Frameworks
-
-✅ Master Advanced Selenium & API Automation
-
-✅ Improve CI/CD-Driven Test Execution
-
-✅ Strengthen DSA & Problem-Solving Skills
-
-✅ Contribute More to Open Source Projects
-
-✅ Share Practical QA Knowledge with the Testing Community
-
----
-
-# 💼 Professional Experience
-
-## 🏢 Brevo | Software Development Engineer in Test (SDET)
-
-### Responsibilities
-
-* Developing and maintaining scalable automation frameworks
-* UI Automation using Selenium WebDriver
-* API Automation and Validation using Postman & Pytest
-* Designing reusable Page Object Model (POM) frameworks
-* Improving test stability and reducing flaky tests
-* Integrating automation suites with CI/CD pipelines
-* Collaborating closely with developers and product teams to ensure software quality
-
-### Key Contributions
-
-✔ Enhanced automation framework maintainability
-
-✔ Improved test execution reliability
-
-✔ Automated critical business workflows
-
-✔ Strengthened CI/CD-based testing processes
-
----
-
-# 🛠️ Tech Stack
-
-| Category              | Technologies                                    |
-| --------------------- | ----------------------------------------------- |
-| Programming Languages | Java, Python                                    |
-| UI Automation         | Selenium WebDriver                              |
-| API Testing           | Postman, Pytest                                 |
-| Testing Frameworks    | TestNG, Pytest                                  |
-| Framework Design      | Page Object Model (POM)                         |
-| CI/CD                 | Jenkins, GitHub Actions                         |
-| Version Control       | Git, GitHub                                     |
-| Methodologies         | Agile, SDLC, STLC                               |
-| Testing Types         | Functional, Regression, Smoke, Integration, API |
-
----
-
 # 📌 Featured Projects
 
 ## 🧪 Selenium Concepts
@@ -211,20 +153,6 @@ Daily practice repository focused on:
 * Linked Lists
 * Trees
 * Searching & Sorting
-
----
-
-# 🎓 Learning Journey
-
-### Current Learning Roadmap
-
-| Topic                      | Status         |
-| -------------------------- | -------------- |
-| Selenium Advanced Concepts | 🔄 In Progress |
-| API Automation Frameworks  | 🔄 In Progress |
-| Pytest Framework Design    | 🔄 In Progress |
-| Jenkins CI/CD Integration  | 🔄 In Progress |
-| DSA & Problem Solving      | 🔄 In Progress |
 
 ---
 
