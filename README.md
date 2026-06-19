@@ -49,6 +49,24 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Brevo  — SDET *(July 2025 – May 2025)*
+- Developed API automation with **Rest Assured** → **35% better release stability**
+- Monitored automation failures, debugged **flaky tests**, and improved test stability to maintain reliable automation
+pipelines. 
+- Tested core modules: Email, SMS Campaign Report and Conversions Application. 
+- Performed **SQL data validation** for financial transaction accuracy
+- Using **AI-assisted tools** (Cursor, Claude) to accelerate automation scripting
+- Exploring **Agentic AI** for intelligent test generation
+
+### 🏢 Venera Technologies — Software QA Engineer *(june 2024 – July 2025)*
+- Implemented Selenium-based UI automation for regression testing, reducing manual effort and improving test coverage.
+- Increased earnings by **15% with automation**, reducing manual testing by **40%**
+- Managed **1500+* test cases ensuring full coverage of critical functionality.
+- Optimised release cycles by **25%** with comprehensive test plans
+- API testing with **Postman**, JIRA documentation boosted productivity by **30%**
+
 ## 🌍 Connect with Me
 <div align="center">
 
