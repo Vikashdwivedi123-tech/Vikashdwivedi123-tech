@@ -40,11 +40,10 @@
 ---
 
 ## 🌍 Connect with Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/vikash-dwivedi123/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-dwivedi123/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vikashdwi123@gmail.com)
 
 </div>
