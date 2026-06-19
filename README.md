@@ -11,7 +11,7 @@ SDET @ Brevo | Selenium | Java | TestNg | POM | Rest-Assured
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikashdwivedi123-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vikashdwivedi123-tech.Vikashdwivedi123-tech" alt="Profile Views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/vikash-dwivedi123/">
     <img src="https://img.shields.io/badge/LinkedIn-Vikash%20Dwivedi-0077B5?style=flat&logo=linkedin&logoColor=white" />
