@@ -39,13 +39,16 @@
 
 ---
 
-## 📍 Connect With Me
+## 🌍 Connect with Me
 
-📧 Email: [vikashdwi123@gmail.com](mailto:vikashdwi123@gmail.com)
+<div align="center">
 
-💼 LinkedIn: linkedin.com/in/vikash-dwivedi123
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/vikash-dwivedi123/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/))
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vikashdwi123@gmail.com)
 
-💻 GitHub: Vikashdwivedi123-tech
+</div>
+
 
 ---
 
