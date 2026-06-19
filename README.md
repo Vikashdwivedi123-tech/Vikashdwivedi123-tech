@@ -12,7 +12,6 @@ SDET @ Brevo | Selenium | Java | TestNg | POM | Rest-Assured
 
 <div align="center">
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVikashdwivedi123-tech&count_bg=%230e75b6&title_bg=%23555555&title=Profile+Views&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Dwivedi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vikash-dwivedi123)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Journey-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Vikashdwivedi/)
 
