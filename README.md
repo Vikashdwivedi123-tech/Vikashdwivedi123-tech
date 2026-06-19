@@ -191,7 +191,7 @@ Daily practice repository focused on:
 <div align="center">
 
 ### 💬 Open to brand collaborations, mentoring & SDET opportunities!
-### 📩 Reach out: jainkalpesh597@gmail.com
+### 📩 Reach out: vikashdwi123@gmail.com
 
 ⭐ *If you find my repos helpful, give them a star!*
 Thanks for visiting my profile! Happy Testing 🧪🚀
