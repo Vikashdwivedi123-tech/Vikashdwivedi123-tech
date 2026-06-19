@@ -11,7 +11,7 @@
 </h3>
 
 <h3 align="center">
-💡 Sharing DSA · QA · Tech & Career | Sharing Automation & Interview Insights | Open to Collaborations
+💡 Sharing Automation & Interview Insights | QA · Tech & Career | Open to Collaborations
 </h3>
 
 <div align="center">
