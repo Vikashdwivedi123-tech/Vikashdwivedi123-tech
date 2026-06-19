@@ -10,9 +10,17 @@
 SDET @ Brevo | Selenium | Java | TestNg | POM | Rest-Assured
 </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikashdwivedi123-tech&label=Profile%20Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Dwivedi-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vikash-dwivedi123)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Journey-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vikashdwivedi/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikashdwivedi123-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vikash-dwivedi123/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikash%20Dwivedi-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Vikashdwivedi/">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Journey-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 </p>
 
