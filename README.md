@@ -7,7 +7,11 @@
 <h1 align="center">👋 Hey, I'm Vikash Dwivedi</h1>
 
 <h3 align="center">
-SDET @ Brevo | Selenium | Java | TestNg | POM | Rest-Assured
+🚀 SDET @ Brevo | Selenium · Rest Assured · API Automation
+</h3>
+
+<h3 align="center">
+💡 Sharing DSA · QA · Tech & Career | Sharing Automation & Interview Insights | Open to Collaborations
 </h3>
 
 <div align="center">
