@@ -67,6 +67,25 @@ pipelines.
 - Optimised release cycles by **25%** with comprehensive test plans
 - API testing with **Postman**, JIRA documentation boosted productivity by **30%**
 
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Automation** | Playwright, Selenium WebDriver, Rest Assured, TestNG | Pytest | POM | Data-driven
+| **API Testing** | Postman, Swagger, REST API |
+| **Performance** | JMeter |
+| **Languages** | Java, Python, JavaScript, SQL |
+| **DevOps & Tools** | Jenkins, Git, CI/CD, JIRA, QA-Touch |
+| **Testing Types** | UI, API, Manual, Regression, Smoke, Integration, Data Validation |
+| **Methodologies** | Agile (Scrum), SDLC, STLC |
+| **AI Tools** | Claude, cursor, Chatgpt |
+| **DSA** | LeetCode 75 — Arrays, Strings, Hashing, Linkedlist (In Progress) |
+
+---
+
+
 ## 🌍 Connect with Me
 <div align="center">
 
