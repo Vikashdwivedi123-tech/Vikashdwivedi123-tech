@@ -60,7 +60,7 @@ pipelines.
 - Using **AI-assisted tools** (Cursor, Claude) to accelerate automation scripting
 - Exploring **Agentic AI** for intelligent test generation
 
-### 🏢 Venera Technologies — Software QA Engineer *(june 2024 – July 2025)*
+### 🏢 Venera Technologies — Software QA Engineer *(June 2024 – July 2025)*
 - Implemented Selenium-based UI automation for regression testing, reducing manual effort and improving test coverage.
 - Increased earnings by **15% with automation**, reducing manual testing by **40%**
 - Managed **1500+* test cases ensuring full coverage of critical functionality.
