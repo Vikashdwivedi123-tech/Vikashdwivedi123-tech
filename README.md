@@ -12,13 +12,13 @@ SDET @ Brevo | Selenium | Java | TestNg | POM | Rest-Assured
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vikashdwivedi123-tech.Vikashdwivedi123-tech" alt="Profile Views" />
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vikash-dwivedi123/">
     <img src="https://img.shields.io/badge/LinkedIn-Vikash%20Dwivedi-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Vikashdwivedi/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Journey-FFA116?style=flat&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Journey-E84545?style=flat&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
 
